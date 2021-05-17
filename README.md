@@ -14,7 +14,7 @@ get_option_names().head()
 |  2 | KR4246R60151 | 246R6015     | KB금융     C 202106    30,000(  10) | 2021/06 |
 |  3 | KR4246R60102 | 246R6010     | KB금융     C 202106    32,000(  10) | 2021/06 |
 |  4 | KR4246R60110 | 246R6011     | KB금융     C 202106    34,000(  10) | 2021/06 |
-```
+```python
 get_option_prc('KR4246R60219').head()
 ```
 |    | TRD_DD     | TDD_CLSPRC   |   FLUC_TP_CD | CMPPREVDD_PRC   | TDD_OPNPRC   | TDD_HGPRC   | TDD_LWPRC   |   IMP_VOLT | NXTDD_BAS_PRC   |   ACC_TRDVOL |   ACC_TRDVAL |   ACC_OPNINT_QTY |
